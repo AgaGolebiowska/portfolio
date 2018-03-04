@@ -9,8 +9,14 @@ My name is Agnieszka Golebiowska. I'm master of music art. Recently I have start
 
 * SQL
 * HTML
-* SCRUM (I participated in workshop organized by "Girls who Test")
-* JIRA
+* SCRUM
+* JIRA, Trello
+* Software testing
+
+## Courses
+
+* Scrum training (organized by "Girls who Test")
+* [Basics of software testing](http://codeme.pl/podstawy-testowania-w-praktyce/) (organized by CODE:ME)
  
 ## Conferences 
 
@@ -22,6 +28,10 @@ My name is Agnieszka Golebiowska. I'm master of music art. Recently I have start
 * [https://www.gitbook.com/@pwicherski](https://www.gitbook.com/@pwicherski)
 * [testerzy.pl](testerzy.pl)
 * [https://testuj.pl/blog/](https://testuj.pl/blog/)
+* [testerka.pl](www.testerka.pl)
+
+## Online courses
+* [Software Testing Tutorial: Free Course](https://www.guru99.com/software-testing.html)
 
 ## Books 
 
@@ -36,4 +46,4 @@ My name is Agnieszka Golebiowska. I'm master of music art. Recently I have start
 
 ## My example test scenarios
 
-* [Test scenario of empik.com website](https://docs.google.com/document/d/1iS5PmYQNsqkXxz7HCXjd23xCgAaoskXruUWmq7rlTo0/edit?usp=sharing)
+* [Test scenario of avon.pl website](https://docs.google.com/document/d/1EMYW4SGwgu2c4MZe1TLVichmJTEiu2b_rI8zwZZpEYw/edit?usp=sharing)

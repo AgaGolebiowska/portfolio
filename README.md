@@ -56,6 +56,9 @@ My name is Agnieszka Golebiowska. I'm master of music art. Recently I have start
 * Testowanie oprogramowania
 * Programuj, dziewczyno!
 * Wake up and code
+* Gildia Testerów
+
+
 
 
 ## My example test scenarios
